@@ -4,6 +4,8 @@ Google Code-in 2019 Summary for BartekPacia. All tasks I did for [Systers, an An
 
 Tasks _are not_ listed chronologically.
 
+Also, feel free to check out my write-ups. They're literally next to the file you're reading right now :)
+
 **Tasks completed: 50**
 
 1. Create a video to promote the Mentorship App (https://codein.withgoogle.com/archive/2019/t/4609934675673088/)
